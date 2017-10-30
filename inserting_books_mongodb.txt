@@ -1,0 +1,22 @@
+
+db.books.insert({
+  title: 'The Murder House',
+  genre: 'Suspense',
+  description: 'No. 7 Ocean Drive is a gorgeous, multi-million-dollar beachfront estate in the Hamptons, where money and privilege know no bounds. But its beautiful gothic exterior hides a horrific past: it was the scene of a series of depraved killings that have never been solved. Neglected, empty, and rumored to be cursed, its known as the Murder House, and locals keep their distance.',
+  author: 'James Patterson',
+  publisher: 'Grand Central Publishing',
+  pages: '480',
+  image_url: 'https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg',
+  buy_url: 'https://www.barnesandnoble.com/w/the-murder-house-james-patterson/1120873479?ean=9781455589906#/'
+})
+
+db.books.insert({
+  title: 'Truth or Die',
+  genre: 'Suspense',
+  description: 'After a serious professional stumble, attorney Trevor Mann may have finally hit his stride. Hes found happiness with his girlfriend Claire Parker, a beautiful, ambitious journalist always on the hunt for a scoop. But when Claires newest story leads to a violent confrontation, Trevors newly peaceful life is shattered as he tries to find out why.',
+  author: 'James Patterson',
+  publisher: 'Grand Central Publishing',
+  pages: '416',
+  image_url: 'https://prodimage.images-bn.com/pimages/9781455584963_p0_v1_s550x406.jpg',
+  buy_url: 'https://www.barnesandnoble.com/w/truth-or-die-james-patterson/1120509003?ean=9781455584963#/'
+})
